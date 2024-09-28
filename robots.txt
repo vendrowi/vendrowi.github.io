@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://vendrowi.github.io/sitemap.vendrowi.gz
+Sitemap: https://vendrowi.github.io/app/sitemap.vendrowi.gz
+Sitemap: https://vendrowi.github.io/assets/sitemap.vendrowi.gz
+Sitemap: https://vendrowi.github.io/css/sitemap.vendrowi.gz
+Sitemap: https://vendrowi.github.io/data/sitemap.vendrowi.gz
+Sitemap: https://vendrowi.github.io/includes/sitemap.vendrowi.gz
+Sitemap: https://vendrowi.github.io/item/sitemap.vendrowi.gz
+Sitemap: https://vendrowi.github.io/src/sitemap.vendrowi.gz
